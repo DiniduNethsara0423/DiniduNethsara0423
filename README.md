@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dinidu_n01" target="blank"><img src="https://img.shields.io/twitter/follow/dinidu_n01?logo=twitter&style=for-the-badge" alt="dinidu_n01" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular,Springboot**
+- 🌱 I’m currently Doing **NextJs,Node,React,Angular,Springboot**
 
 - 📫 How to reach me **dinidubandara2004@gamil.com**
 
